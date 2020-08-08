@@ -1,0 +1,102 @@
+{
+  "main": {
+    "name":"Joshua Jacob Mauricio",
+    "nameShort": "Josh",
+    "occupation":"Full-Stack Software Developer",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"My name is Joshua Jacob Mauricio. I am a 2020 computer science gradute from Western Oregon University and an aspiring software developer. I am experienced in full-stack web development and enjoy collaborating with other team members to reach our shared goals. Individually, I am able to adapt to varying work environments and I am always striving to improve myself as a developer, team member, and a person.",
+    "contactmessage":"",
+    "email": "joshua.mauricio1@gmail.com",
+    "phone": "(808) 469-9794",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"Oregon",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/joshuajacobmauricio/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/jmauricio1",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Western Oregon University",
+        "degree":"B.S. in Computer Science",
+        "graduated":"September 2015 - June 2020",
+        "description":""
+      }
+    ],
+    "work":[
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Astronomical Learning",
+        "tools": "ASP.NET MVC 5, .NET Framework, Identity, C#, HTML, CSS, Javascript, jQuery, AJAX, Bootstrap, MSSQL Server, Microsoft Azure, ",
+        "category":"Used Agile/Scrum development methods to design and create an application that provides information regarding space and travel. Contributed to backlog refinement, sprints (planning, reviews, retrospectives), and was also responsible for our Git repository, SendGrid implmentation, and CI/CD with Azure.",
+        "image":"astronomical-img.jpg",
+        "url":"http://astronomical.azurewebsites.net/"
+      },
+      {
+        "title":"Portfolio",
+        "tools": "React.js, HTML, CSS",
+        "category":"Stepped out of my comfort zone and modified React.js template to create an up-to-date portfolio.",
+        "image":"portfolio-img.JPG",
+        "url":"#home"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  }
+}
