@@ -11,7 +11,7 @@ class About extends Component {
          //var profilepic = "images/" + this.props.data.image;
          var profilepic = "/profilepic.jpg";
          //var bio = this.props.data.bio;
-         var bio = "My name is Joshua Jacob Mauricio. I am a 2020 computer science gradute from Western Oregon University and an aspiring software developer. I am experienced in full-stack web development and enjoy collaborating with other team members to reach our shared goals. Individually, I am able to adapt to varying work environments and I am always striving to improve myself as a developer, team member, and a person.",
+         var bio = "My name is Joshua Jacob Mauricio. I am a 2020 computer science gradute from Western Oregon University and an aspiring software developer. I am experienced in full-stack web development and enjoy collaborating with other team members to reach our shared goals. Individually, I am able to adapt to varying work environments and I am always striving to improve myself as a developer, team member, and a person.";
 
          //var phone = this.props.data.phone;
          var phone = "(808) 469-9794";
